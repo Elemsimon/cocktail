@@ -1,8 +1,8 @@
 <div align="center">
   <br />
-    <>
+    <div>
       <img src="public/readme/hero.png" alt="Project Banner">
-    </>
+    </div>
   <br />
 
    <div>
